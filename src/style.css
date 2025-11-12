@@ -120,11 +120,11 @@ body {
 }
 
 .result-summary {
-    --custom-padding: 2.5rem;
+    --custom-padding: 2.7rem;
     --border-radius: 2rem;
     max-width: 46rem;
     display: grid;
-    background: var(--neutral-200);
+    background: var(--neutral-100);
 
     @media (min-width: 42rem) {
         margin-inline: 1rem;
@@ -221,4 +221,5 @@ body {
     color: var(--neutral-700);
 
 }
+
 
